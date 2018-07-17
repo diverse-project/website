@@ -50,13 +50,3 @@ Software product lines and associated variability modeling formalisms represent 
 
 
 {{< diverse >}} (formely Triskell) is a research team of {{< IRISA >}} (mixed research unit grouping {{< CNRS >}}, {{< UR1 >}}, {{< INRIA >}} {{< INSARennes >}} in Rennes / Britanny / France), defining itself as a world leader(*) of Model Driven Engineering (MDE) research.
-
-The research domain of the Triskell project-team is the model driven development and validation of software product lines, ranging from the Internet of Things to the Internet of Services. Triskell is particularly interested in component based, dynamically adaptable systems with quality of service constraints, including reliability, performance, timeliness, etc. The long-term goal of the Triskell project-team is to investigate new ways of building and validating these systems by unifying Model Driven Engineering, Aspect Oriented Software Development, Product-Line Engineering, Component Based Software Development, and Generative Programming.
-
-Model-Driven Engineering for Component-Based Software
-- Formal manipulation of UML models with patterns, frameworks and components
-- Design with contract-aware components and Aspect Oriented Modeling
-- Models@runtime to control Dynamically Adaptable Systems
-- Intra-component and inter-component V&V (testing)
-
-[Introduction to Model Driven Engineering](http://www.irisa.fr/triskell/IntroMDE_fichiers/v3_document.htm)
